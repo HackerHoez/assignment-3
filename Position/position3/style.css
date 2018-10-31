@@ -1,0 +1,43 @@
+
+#body-02 {
+	font-size: 44pt;
+	width: 800px;
+	align-self: flex-start;
+	writing-mode: vertical-rl;
+     text-orientation: sideways;
+}
+
+#body-03 {
+	font-size: 24pt;
+	width: 600px;
+	align-self: center;
+}
+
+.copybox {
+	width: 1200px;
+	height: 1400px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.cube a {
+	display: block;
+
+	width: 150px;
+	height: 50px;
+	background-color: black;
+ padding:20px 20px 20px 20px;
+ margin: 0 auto;
+   font-family:Helvetica;
+
+      font-size: 20px;
+
+      font-weight: bold;
+      color: white;
+      text-align: center;
+}
+body {
+	background-color: red;
+	color: white;
+	font-family: Times New Roman; 
+}

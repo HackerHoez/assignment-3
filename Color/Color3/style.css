@@ -1,0 +1,33 @@
+body {
+	background-color: purple;
+	color: yellow; 
+	font-family: Times New Roman; 
+}
+
+#body-01 {
+	justify-content: left;
+	width: 850px;
+	font-size: 24pt;
+}
+
+.body-container { 
+	width: 1000px;
+	height: 1000px;
+
+}
+.cube a {
+	display: block;
+
+	width: 150px;
+	height: 50px;
+	background-color: red;
+ padding:20px 20px 20px 20px;
+ margin: 0 auto;
+   font-family:Helvetica;
+
+      font-size: 20px;
+
+      font-weight: bold;
+      color: white;
+      text-align: center;
+}

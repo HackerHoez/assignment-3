@@ -1,0 +1,33 @@
+
+@font-face {
+	font-family: "Trickster";
+	src: url('font/Distant_Galaxy.ttf') format('ttf');
+}
+
+
+#body-03 {
+	font-family: 'Distant_Galaxy';
+	font-size: 24pt;
+	width: 700pt;
+	font-style: italic 
+}
+.cube a {
+	display: block;
+
+	width: 150px;
+	height: 50px;
+	background-color: black;
+ padding:20px 20px 20px 20px;
+ margin: 0 auto;
+   font-family:Helvetica;
+
+      font-size: 20px;
+
+      font-weight: bold;
+      color: white;
+      text-align: center;
+}
+body {
+	background-color: red;
+	color: black;
+}
